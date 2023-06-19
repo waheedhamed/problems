@@ -1,0 +1,10 @@
+x=0
+a=int(input())
+# for i in range(int(input())) :
+b=str(input())
+
+for i in range(a) :
+# for el in (b ) :   
+    x=int(b[i])+x
+    
+print(x)
